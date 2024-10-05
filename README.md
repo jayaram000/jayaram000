@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **jayaram.sj70@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1GdddkMF1SW12k3QzHRqgRRkJbNgdiRut/view?usp=drive_link](https://drive.google.com/file/d/1GdddkMF1SW12k3QzHRqgRRkJbNgdiRut/view?usp=drive_link)
+- 📄 Know about my experiences ([https://drive.google.com/file/d/1GdddkMF1SW12k3QzHRqgRRkJbNgdiRut/view?usp=drive_link](https://drive.google.com/file/d/10lAY2wd_CsdkmsnEyRukm2MbQPXTfNjM/view?usp=drive_link))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
