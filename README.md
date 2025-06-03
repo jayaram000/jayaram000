@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Jayaram SJ</h1>
-<p align="center">I am searching for job as a python django developer from may 2024 till now... thats why my github is not active .. </p>
+<p align="center">I am searching for job a full time job as a python django developer from jan 2025 till now... thats why my github is not active .. </p>
 <h3 align="center">A passionate Python Full Stack developer from India</h3>
 
 
