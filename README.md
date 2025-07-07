@@ -1,9 +1,9 @@
 ![MasterHead](https://media.geeksforgeeks.org/wp-content/uploads/20240415204701/How-to-Become-a-Python-Full-Stack-Developer.png)
 
 
-<h1 align="center">Hi 👋, I'm Jayaram SJ</h1>
-<p align="center">I am searching for job a full time job as a python django developer from jan 2025 till now... thats why my github is not active .. </p>
-<h3 align="center">A passionate Python Full Stack developer from India</h3>
+<h1 align="center">Hi 👋, I'm Jayaram SJ</h1> <h3 align="center">A Passionate Python Full Stack Developer from India</h3> 
+<p align="center">I’m currently undergoing training as a <strong>React.js Developer</strong> at <strong>InfoForte</strong>, Technopark, Kerala. This opportunity is helping me strengthen my skills in modern frontend development, with a focus on building scalable and responsive web applications using <strong>React.js</strong>.</p>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayaram000&label=Profile%20views&color=0e75b6&style=flat" alt="jayaram000" /> </p>
