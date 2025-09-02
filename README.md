@@ -11,7 +11,7 @@
 
 
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **Python**
 
